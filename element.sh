@@ -13,6 +13,7 @@ ECHO_INFO_MESSAGE() {
     done
 }
 
+# echo no argument message
 ECHO_NO_ARG_MESSAGE() {
   echo "Please provide an element as an argument."
 }
