@@ -18,6 +18,7 @@ ECHO_NO_ARG_MESSAGE() {
   echo "Please provide an element as an argument."
 }
 
+# echo no element found message
 ECHO_NO_ELEMENT_FOUND() {
   echo "I could not find that element in the database."
 }
