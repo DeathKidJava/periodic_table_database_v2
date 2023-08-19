@@ -43,3 +43,4 @@ else
     ECHO_INFO_MESSAGE
   fi
 fi
+# wrong comment
